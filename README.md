@@ -2,7 +2,7 @@
 - 👀 I’m interested in cutting-edge tech, open-source projects, and AI advancements.
 - 🌱 I’m currently learning about neural networks and blockchain technology.
 - 💞️ I’m looking to collaborate on innovative software solutions and AI-driven applications.
-- 📫 How to reach me: bisudev@example.com
+- 📫 How to reach me: bisu0404t@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I once built a fully functioning AI chatbot in just 24 hours!
 
